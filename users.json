@@ -14,11 +14,11 @@
   {
     "username": "aleksanford",
     "password": "kimono@24",
-    "expiryTimestamp": 0,
+    "expiryTimestamp": 1794250650197,
     "pendingTariffDays": 30,
     "pendingPrice": 150,
     "pendingCode": "SEL-968358",
-    "paymentStatus": "PENDING",
+    "paymentStatus": "PAID",
     "devices": [
       "79f9aeed18a51653"
     ]
