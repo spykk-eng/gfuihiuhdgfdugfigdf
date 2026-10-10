@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "username": "spyik",
+    "password": "kimono24",
+    "expiryTimestamp": 0,
+    "devices": [
+      "fc55e19e5d9c7fc3"
+    ]
+  }
+]
