@@ -2,7 +2,7 @@
   {
     "username": "spyik",
     "password": "kimono24",
-    "expiryTimestamp": 200000,
+    "expiryTimestamp": 604800000,
     "devices": [
       "fc55e19e5d9c7fc3"
     ]
