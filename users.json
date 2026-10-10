@@ -1,8 +1,8 @@
-[
+\[
   {
     "username": "spyik",
     "password": "kimono24",
-    "expiryTimestamp": 0,
+    "expiryTimestamp": 7,
     "devices": [
       "fc55e19e5d9c7fc3"
     ]
