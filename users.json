@@ -2,13 +2,13 @@
   {
     "username": "spyik",
     "password": "kimono24",
-    "expiryTimestamp": 1791956000000,
+    "expiryTimestamp": 17919560000000,
     "pendingTariffDays": 0,
     "pendingPrice": 0,
     "pendingCode": "",
     "paymentStatus": "NONE",
-    "chatQuotaLeft": 29,
-    "scanQuotaLeft": 5,
+    "chatQuotaLeft": 2900,
+    "scanQuotaLeft": 5000,
     "lastQuotaResetDate": "2026-10-11",
     "devices": [
       "fc55e19e5d9c7fc3"
