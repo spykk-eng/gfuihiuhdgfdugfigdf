@@ -7,9 +7,9 @@
     "pendingPrice": 0,
     "pendingCode": "",
     "paymentStatus": "NONE",
-    "chatQuotaLeft": 2896,
-    "scanQuotaLeft": 4998,
-    "lastQuotaResetDate": "2026-10-11",
+    "chatQuotaLeft": 29,
+    "scanQuotaLeft": 20,
+    "lastQuotaResetDate": "2026-10-12",
     "devices": [
       "fc55e19e5d9c7fc3"
     ]
@@ -24,7 +24,7 @@
     "paymentStatus": "PAID",
     "chatQuotaLeft": 30,
     "scanQuotaLeft": 20,
-    "lastQuotaResetDate": "2026-10-11",
+    "lastQuotaResetDate": "2026-10-12",
     "devices": [
       "79f9aeed18a51653"
     ]
