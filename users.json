@@ -7,9 +7,9 @@
     "pendingPrice": 0,
     "pendingCode": "",
     "paymentStatus": "NONE",
-    "chatQuotaLeft": 27,
+    "chatQuotaLeft": 30,
     "scanQuotaLeft": 20,
-    "lastQuotaResetDate": "2026-10-12",
+    "lastQuotaResetDate": "2026-10-23",
     "devices": [
       "fc55e19e5d9c7fc3"
     ]
@@ -24,9 +24,24 @@
     "paymentStatus": "PAID",
     "chatQuotaLeft": 30,
     "scanQuotaLeft": 20,
-    "lastQuotaResetDate": "2026-10-12",
+    "lastQuotaResetDate": "2026-10-23",
     "devices": [
       "79f9aeed18a51653"
+    ]
+  },
+  {
+    "username": "fudjdhdjjdj",
+    "password": "kimono24",
+    "expiryTimestamp": 0,
+    "pendingTariffDays": 0,
+    "pendingPrice": 0,
+    "pendingCode": "",
+    "paymentStatus": "NONE",
+    "chatQuotaLeft": 30,
+    "scanQuotaLeft": 20,
+    "lastQuotaResetDate": "",
+    "devices": [
+      "fc55e19e5d9c7fc3"
     ]
   }
 ]
