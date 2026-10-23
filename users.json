@@ -33,13 +33,13 @@
     "username": "fudjdhdjjdj",
     "password": "kimono24",
     "expiryTimestamp": 0,
-    "pendingTariffDays": 0,
-    "pendingPrice": 0,
-    "pendingCode": "",
-    "paymentStatus": "NONE",
+    "pendingTariffDays": 30,
+    "pendingPrice": 150,
+    "pendingCode": "SEL-804387",
+    "paymentStatus": "PENDING",
     "chatQuotaLeft": 30,
     "scanQuotaLeft": 20,
-    "lastQuotaResetDate": "",
+    "lastQuotaResetDate": "2026-10-23",
     "devices": [
       "fc55e19e5d9c7fc3"
     ]
